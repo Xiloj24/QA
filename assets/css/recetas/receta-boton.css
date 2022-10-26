@@ -1,0 +1,11 @@
+.receta__boton{
+    background: #8d0606;
+    color: #fdfdfd;
+    border: none;
+    padding: 1rem;
+    border-radius:5px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -o-border-radius:5px ;
+}
